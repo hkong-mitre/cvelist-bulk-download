@@ -11,7 +11,7 @@
     "@types/node": "^18.16.0",
     "@typescript-eslint/eslint-plugin": "~5.26",
     "@typescript-eslint/parser": "~5.26",
-    "eslint": "~8.16",
+    "eslint": "~8.52",
     "eslint-config-prettier": "~8.5",
     "eslint-plugin-jest": "~26.2",
     "jest": "~28.1",
