@@ -13,7 +13,7 @@
     "@typescript-eslint/parser": "~5.26",
     "eslint": "~8.16",
     "eslint-config-prettier": "~8.5",
-    "eslint-plugin-jest": "~26.2",
+    "eslint-plugin-jest": "~27.4",
     "jest": "~28.1",
     "prettier": "~2.6",
     "rimraf": "~3.0",
